@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyCache/.idea/MyCache.iml" filepath="$PROJECT_DIR$/../MyCache/.idea/MyCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyGin/.idea/MyGin.iml" filepath="$PROJECT_DIR$/../MyGin/.idea/MyGin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Myorm.iml" filepath="$PROJECT_DIR$/.idea/Myorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grpc/.idea/grpc.iml" filepath="$PROJECT_DIR$/../grpc/.idea/grpc.iml" />
+    </modules>
+  </component>
+</project>
